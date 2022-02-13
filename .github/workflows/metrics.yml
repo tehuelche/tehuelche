@@ -9,6 +9,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -39,7 +40,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_ignored: CSS,HTML
+          plugin_languages_ignored: CSS,HTML,TSQL
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
