@@ -38,7 +38,8 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 20
+          plugin_languages_limit: 8
+          plugin_languages_ignored: CSS,HTML
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
