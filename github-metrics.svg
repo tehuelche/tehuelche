@@ -334,7 +334,7 @@
                     <rect mask="url(#languages-bar)" x="392.5867661843042" y="0" width="29.628391903930076" height="8" fill="#438eff"/>
                     <rect mask="url(#languages-bar)" x="422.21515808823426" y="0" width="20.0185604924172" height="8" fill="#A97BFF"/>
                     <rect mask="url(#languages-bar)" x="442.23371858065144" y="0" width="9.602931898962524" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.836650479614" y="0" width="8.163349520386006" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="451.836650479614" y="0" width="8.163349520386006" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -381,7 +381,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
@@ -799,7 +799,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 04:20:00 (timezone America/Bogota) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 05:23:48 (timezone America/Bogota) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
